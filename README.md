@@ -4,9 +4,10 @@ Este repositório contém todos os exercícios realizados durante o curso **Full
 
 ## Estrutura do Repositório
 
-- **Módulo 1**: [Variáveis & Tipos de Dados]
-- **Módulo 2**: [Estruturas de Dados]
-- **Módulo 3**: [Fluxo Condicional & Repetição]
+- **Introdução ao Python**:
+   - **Módulo 1**: [Variáveis & Tipos de Dados]
+   - **Módulo 2**: [Estruturas de Dados]
+   - **Módulo 3**: [Fluxo Condicional & Repetição]
 
 ## Como Utilizar
 
