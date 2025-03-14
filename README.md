@@ -16,7 +16,6 @@ Este repositório contém todos os exercícios realizados durante o curso **Full
 
 Tecnologias Utilizadas
 Python 3.x
-[Outras tecnologias conforme forem introduzidas no curso]
 
 Objetivo
 O objetivo deste repositório é acompanhar e registrar meu progresso ao longo do curso Full Stack Python v2, consolidando os conhecimentos adquiridos e aplicando as habilidades desenvolvidas em cada módulo.
